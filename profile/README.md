@@ -4,16 +4,16 @@
 
 ### *Bridging Genomics, Artificial Intelligence, and Interactive Storytelling*
 
-![Status](https://img.shields.io/badge/🚀_status-in%20development-00D9FF?style=for-the-badge)
-![Research](https://img.shields.io/badge/🔬_research-active-00FF88?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/💡_innovation-high-FFD700?style=for-the-badge)
-![License](https://img.shields.io/badge/📜_license-academic-FF6B9D?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-in%20development-00D9FF?style=for-the-badge)
+![Research](https://img.shields.io/badge/research-active-00FF88?style=for-the-badge)
+![Innovation](https://img.shields.io/badge/innovation-high-FFD700?style=for-the-badge)
+![License](https://img.shields.io/badge/license-academic-FF6B9D?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 ### **LLM-Driven Framework for an ARG Based on a Genomic Database**
 
@@ -21,10 +21,10 @@
 
 ```mermaid
 graph LR
-    A[🧬 Genomic Data] --> D[🎮 Interactive Experience]
-    B[🤖 AI Models] --> D
-    C[🎭 ARG Design] --> D
-    D --> E[🎓 Education & Research]
+    A[🧬 Genomic Data] --> D[ Interactive Experience]
+    B[ AI Models] --> D
+    C[ ARG Design] --> D
+    D --> E[ Education & Research]
     style A fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#FFD700,stroke:#fff,stroke-width:2px,color:#fff
@@ -36,11 +36,11 @@ graph LR
 
 An innovative final-year research project that converges cutting-edge AI, genomic data infrastructure, and Alternate Reality Game (ARG) design principles. Our mission is to transform complex genetic information into an accessible, interactive experience that serves both educational and research purposes.
 
-**🏛️ Affiliation:** Genomic AI Research Lab (GARL)
+**Affiliation:** Genomic AI Research Lab (GARL)
 
 ---
 
-## 👥 The Team
+## The Team
 
 <div align="center">
 
@@ -112,7 +112,7 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 
 ---
 
-## 🌟 Vision
+## Vision
 
 <div align="center">
 
@@ -127,25 +127,25 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 
 The intersection of genomics and artificial intelligence presents unprecedented opportunities for scientific advancement. This project addresses a critical gap in Bangladesh's research infrastructure while pioneering novel approaches to data accessibility through gamified learning experiences.
 
-### 🎯 Core Objectives
+### Core Objectives
 
 <table>
 <tr>
 <td width="50%">
 
-**🏗️ Infrastructure Development**  
+**Infrastructure Development**  
 Establish a comprehensive, region-specific genomic database tailored to local research needs
 
-**🤖 AI Integration**  
+**AI Integration**  
 Deploy large language models for intelligent interpretation and query processing of genetic data
 
 </td>
 <td width="50%">
 
-**🎮 Interactive Design**  
+**Interactive Design**  
 Implement ARG mechanics to transform passive data consumption into active exploration
 
-**📚 Knowledge Transfer**  
+**Knowledge Transfer**  
 Create a framework that democratizes access to complex genomic information
 
 </td>
@@ -154,16 +154,16 @@ Create a framework that democratizes access to complex genomic information
 
 ---
 
-## 🔍 Problem Space
+## Problem Space
 
 <div align="center">
 
 | Challenge | Our Solution |
 |-----------|-------------|
-| 🌏 **Localized Data Gap** | Region-specific genomic database for Bangladesh |
-| 🔒 **Accessibility Barriers** | AI-powered interpretation for non-specialists |
-| 🧩 **Complexity** | Intelligent automation and natural language queries |
-| 😴 **Engagement** | ARG-style interactive storytelling |
+| **Localized Data Gap** | Region-specific genomic database for Bangladesh |
+| **Accessibility Barriers** | AI-powered interpretation for non-specialists |
+| **Complexity** | Intelligent automation and natural language queries |
+| **Engagement** | ARG-style interactive storytelling |
 
 </div>
 
@@ -171,7 +171,7 @@ Genomic databases are fundamental to modern biological research, yet significant
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### Technology Stack
 
@@ -213,25 +213,25 @@ Genomic databases are fundamental to modern biological research, yet significant
 
 | Component | Description |
 |-----------|-------------|
-| 🗄️ **Database Layer** | Structured genomic data repository with optimized query capabilities |
-| 🧠 **AI Engine** | Large language model integration for natural language processing |
-| 🎨 **Interactive Frontend** | ARG-inspired interface designed for exploration and discovery |
-| 🔌 **API Infrastructure** | RESTful services enabling programmatic access |
+| **Database Layer** | Structured genomic data repository with optimized query capabilities |
+| **AI Engine** | Large language model integration for natural language processing |
+| **Interactive Frontend** | ARG-inspired interface designed for exploration and discovery |
+| **API Infrastructure** | RESTful services enabling programmatic access |
 
 ---
 
-## 📊 Research Methodology
+## Research Methodology
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[📚 Literature Review] --> B[🔬 Database Analysis]
-    B --> C[🤖 AI Model Selection]
-    C --> D[🎮 ARG Design]
-    D --> E[⚙️ Prototype Development]
-    E --> F[🧪 Testing & Iteration]
-    F --> G[📝 Documentation]
+    A[ Literature Review] --> B[ Database Analysis]
+    B --> C[ AI Model Selection]
+    C --> D[ ARG Design]
+    D --> E[ Prototype Development]
+    E --> F[ Testing & Iteration]
+    F --> G[ Documentation]
     style A fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#FFD700,stroke:#fff,stroke-width:2px,color:#fff
@@ -247,41 +247,41 @@ Our development process follows rigorous academic standards, combining theoretic
 
 ---
 
-## 🗓️ Development Roadmap
+## Development Roadmap
 
 <div align="center">
 
 | Phase | Focus Area | Status |
 |-------|-----------|--------|
-| **Phase 1** | 🗄️ Database Architecture & Data Acquisition | ![](https://img.shields.io/badge/-in%20progress-00D9FF?style=flat-square) |
-| **Phase 2** | 🤖 LLM Integration & Query System | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
-| **Phase 3** | 🎮 ARG Framework Design | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
-| **Phase 4** | 🧪 Testing & Refinement | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
-| **Phase 5** | 📝 Final Documentation & Presentation | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
+| **Phase 1** | Database Architecture & Data Acquisition | ![](https://img.shields.io/badge/-in%20progress-00D9FF?style=flat-square) |
+| **Phase 2** | LLM Integration & Query System | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
+| **Phase 3** | ARG Framework Design | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
+| **Phase 4** | Testing & Refinement | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
+| **Phase 5** | Final Documentation & Presentation | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
 
 </div>
 
 ---
 
-## 💡 Impact Potential
+## Impact Potential
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 🎓 Academic Research
+### Academic Research
 Provides local researchers with tailored genomic resources
 
-### 📚 Education
+### Education
 Offers an engaging platform for genetics education
 
 </td>
 <td width="50%" align="center">
 
-### 💻 Technology
+### Technology
 Demonstrates practical AI applications in scientific contexts
 
-### 🏥 Healthcare
+### Healthcare
 Supports public health initiatives through accessible genetic information
 
 </td>
@@ -290,7 +290,7 @@ Supports public health initiatives through accessible genetic information
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 We extend our gratitude to our academic advisors, the Computer Science department, and the Genomic AI Research Lab for their guidance and support throughout this endeavor.
 
@@ -298,9 +298,9 @@ We extend our gratitude to our academic advisors, the Computer Science departmen
 
 <div align="center">
 
-### 🚀 **Team NoEffort** | Final Year Design Project
+### Team NoEffort | Final Year Design Project
 
-**Computer Science Department** | 2024-2025
+**Computer Science Department** |**UIU**-223
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Documentation](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=gitbook&logoColor=white)](#)
@@ -309,6 +309,6 @@ We extend our gratitude to our academic advisors, the Computer Science departmen
 
 ---
 
-*Made with 💜 by Team NoEffort*
+*Made with passion by Team NoEffort*
 
-</div
+</div>
