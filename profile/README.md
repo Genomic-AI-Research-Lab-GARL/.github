@@ -18,15 +18,19 @@
 ### **LLM-Driven Framework for Antibiotic Resistance Gene (ARG) Analysis Using a Genomic Database**
 
 <div align="center">
-<br>
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'16px'}}}%%
-flowchart LR
-    A[Genomic Data] --> B[Database Layer]
-    B --> C[AI Engine LLM]
-    C --> D[ARG Prediction &<br/>Classification]
-    D --> E[Research Insights<br/>& Reports]
+flowchart TD
+    A[Genomic Data]
+    B[Database Layer]
+    C[AI Engine LLM]
+    D[ARG Prediction & Classification]
+    E[Research Insights & Reports]
+    
+    A -->|Data Flow| B
+    B -->|Query Processing| C
+    C -->|Analysis| D
+    D -->|Output| E
     
     style A fill:#FF6B9D,stroke:#fff,stroke-width:3px,color:#fff
     style B fill:#00D9FF,stroke:#fff,stroke-width:3px,color:#fff
@@ -35,7 +39,6 @@ flowchart LR
     style E fill:#9D4EDD,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
-<br>
 </div>
 
 This final-year research project integrates **AI and genomic data** to analyze **antibiotic resistance genes (ARGs)**. The framework enables ARG detection, classification, and interpretation, providing actionable insights for researchers and students.
