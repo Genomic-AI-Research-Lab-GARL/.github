@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## Project Overview
 
@@ -38,7 +38,7 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 
 **Affiliation:** Genomic AI Research Lab (GARL)
 
----
+
 
 ## The Team
 
@@ -109,7 +109,7 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 </table>
 
 </div>
----
+
 
 ## Vision
 
@@ -151,7 +151,7 @@ Create a framework that democratizes access to complex genomic information
 </tr>
 </table>
 
----
+
 
 ## Problem Space
 
@@ -168,7 +168,7 @@ Create a framework that democratizes access to complex genomic information
 
 Genomic databases are fundamental to modern biological research, yet significant barriers persist. Our framework addresses these challenges through intelligent automation and creative engagement strategies, making cutting-edge genetic research accessible to everyone.
 
----
+
 
 ## Technical Architecture
 
@@ -217,7 +217,7 @@ Genomic databases are fundamental to modern biological research, yet significant
 | **Interactive Frontend** | ARG-inspired interface designed for exploration and discovery |
 | **API Infrastructure** | RESTful services enabling programmatic access |
 
----
+
 
 ## Research Methodology
 
@@ -244,7 +244,7 @@ graph TD
 
 Our development process follows rigorous academic standards, combining theoretical research with practical implementation and continuous refinement based on expert feedback and user testing.
 
----
+
 
 ## Development Roadmap
 
@@ -260,7 +260,7 @@ Our development process follows rigorous academic standards, combining theoretic
 
 </div>
 
----
+
 
 ## Impact Potential
 
@@ -287,13 +287,13 @@ Supports public health initiatives through accessible genetic information
 </tr>
 </table>
 
----
+
 
 ## Acknowledgments
 
 We extend our gratitude to our academic advisors, the Computer Science department, and the Genomic AI Research Lab for their guidance and support throughout this endeavor.
 
----
+
 
 <div align="center">
 
