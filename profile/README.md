@@ -20,16 +20,17 @@
 <div align="center">
 
 ```mermaid
-graph TD
+flowchart LR
     A[Genomic Data] --> B[Database Layer]
     B --> C[AI Engine LLM]
-    C --> D[ARG Prediction & Classification]
-    D --> E[Research Insights & Reports]
-    style A fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#FFD700,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#00FF88,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#9D4EDD,stroke:#fff,stroke-width:2px,color:#fff
+    C --> D[ARG Prediction &<br/>Classification]
+    D --> E[Research Insights<br/>& Reports]
+    
+    style A fill:#FF6B9D,stroke:#fff,stroke-width:3px,color:#fff
+    style B fill:#00D9FF,stroke:#fff,stroke-width:3px,color:#fff
+    style C fill:#FFD700,stroke:#fff,stroke-width:3px,color:#000
+    style D fill:#00FF88,stroke:#fff,stroke-width:3px,color:#000
+    style E fill:#9D4EDD,stroke:#fff,stroke-width:3px,color:#fff
 ```
 
 </div>
