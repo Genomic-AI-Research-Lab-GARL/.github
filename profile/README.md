@@ -2,7 +2,7 @@
 
 # 🧬 Team NoEffort
 
-### *Bridging Genomics, Artificial Intelligence, and Interactive Storytelling*
+### *Predict. Prevent. Protect.*
 
 ![Status](https://img.shields.io/badge/status-in%20development-00D9FF?style=for-the-badge)
 ![Research](https://img.shields.io/badge/research-active-00FF88?style=for-the-badge)
