@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## Project Overview
 
@@ -45,7 +45,7 @@ This final-year research project integrates **AI and genomic data** to analyze *
 
 **Affiliation:** Genomic AI Research Lab (GARL)
 
----
+
 
 ## The Team
 
@@ -93,7 +93,7 @@ This final-year research project integrates **AI and genomic data** to analyze *
         <img src="https://github.com/misbah7172.png?size=120" width="120" style="border-radius:50%; border: 4px solid #00FF88;">
       </a>
       <br><br>
-      <b>Md. Habibulla Misba</b>
+      <b>Md. Habibulla Misbah</b>
       <br>
       <sub>011221373</sub>
       <br>
@@ -117,7 +117,7 @@ This final-year research project integrates **AI and genomic data** to analyze *
 
 </div>
 
----
+
 
 ## Vision
 
@@ -159,7 +159,7 @@ Create a framework that democratizes access to complex genomic information
 </tr>
 </table>
 
----
+
 
 ## Problem Space
 
@@ -176,7 +176,7 @@ Create a framework that democratizes access to complex genomic information
 
 Genomic databases are fundamental to modern biological research, yet significant barriers persist. Our framework addresses these challenges through intelligent automation and creative engagement strategies, making cutting-edge genetic research accessible to everyone.
 
----
+
 
 ## Technical Architecture
 
@@ -225,7 +225,7 @@ Genomic databases are fundamental to modern biological research, yet significant
 | **Visualization & Reporting** | Interactive dashboards, tables, and natural language summaries |
 | **API Infrastructure** | RESTful services for programmatic access and queries |
 
----
+
 
 ## Research Methodology
 
@@ -252,7 +252,7 @@ graph TD
 
 Our development process follows rigorous academic standards, combining theoretical research with practical implementation and continuous refinement based on expert feedback and user testing.
 
----
+
 
 ## Development Roadmap
 
@@ -268,7 +268,7 @@ Our development process follows rigorous academic standards, combining theoretic
 
 </div>
 
----
+
 
 ## Impact Potential
 
@@ -295,7 +295,7 @@ Supports public health initiatives through accessible genetic information
 </tr>
 </table>
 
----
+
 
 ## Acknowledgments
 
