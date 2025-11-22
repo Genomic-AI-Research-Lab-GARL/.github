@@ -11,20 +11,20 @@
 
 </div>
 
-
+---
 
 ## Project Overview
 
-### **LLM-Driven Framework for an ARG Based on a Genomic Database**
+### **LLM-Driven Framework for Antibiotic Resistance Gene (ARG) Analysis Using a Genomic Database**
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🧬 Genomic Data] --> D[ Interactive Experience]
-    B[ AI Models] --> D
-    C[ ARG Design] --> D
-    D --> E[ Education & Research]
+    A[Genomic Data] --> B[Database Layer]
+    B --> C[AI Engine LLM]
+    C --> D[ARG Prediction & Classification]
+    D --> E[Research Insights & Reports]
     style A fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#FFD700,stroke:#fff,stroke-width:2px,color:#fff
@@ -34,11 +34,11 @@ graph LR
 
 </div>
 
-An innovative final-year research project that converges cutting-edge AI, genomic data infrastructure, and Alternate Reality Game (ARG) design principles. Our mission is to transform complex genetic information into an accessible, interactive experience that serves both educational and research purposes.
+This final-year research project integrates **AI and genomic data** to analyze **antibiotic resistance genes (ARGs)**. The framework enables ARG detection, classification, and interpretation, providing actionable insights for researchers and students.
 
 **Affiliation:** Genomic AI Research Lab (GARL)
 
-
+---
 
 ## The Team
 
@@ -110,6 +110,7 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 
 </div>
 
+---
 
 ## Vision
 
@@ -117,14 +118,14 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
-│  "Transforming genetic data into interactive experiences"      │
+│  "Transforming genetic data into actionable research insights" │
 │              Making science accessible through AI               │
 └────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-The intersection of genomics and artificial intelligence presents unprecedented opportunities for scientific advancement. This project addresses a critical gap in Bangladesh's research infrastructure while pioneering novel approaches to data accessibility through gamified learning experiences.
+This project addresses **genomic data accessibility challenges** in Bangladesh and pioneers novel approaches to ARG analysis using AI.
 
 ### Core Objectives
 
@@ -136,13 +137,13 @@ The intersection of genomics and artificial intelligence presents unprecedented 
 Establish a comprehensive, region-specific genomic database tailored to local research needs
 
 **AI Integration**  
-Deploy large language models for intelligent interpretation and query processing of genetic data
+Deploy large language models for intelligent interpretation and query processing of ARG data
 
 </td>
 <td width="50%">
 
-**Interactive Design**  
-Implement ARG mechanics to transform passive data consumption into active exploration
+**Analysis & Reporting**  
+Predict and classify ARGs, generate natural language summaries
 
 **Knowledge Transfer**  
 Create a framework that democratizes access to complex genomic information
@@ -151,7 +152,7 @@ Create a framework that democratizes access to complex genomic information
 </tr>
 </table>
 
-
+---
 
 ## Problem Space
 
@@ -160,15 +161,15 @@ Create a framework that democratizes access to complex genomic information
 | Challenge | Our Solution |
 |-----------|-------------|
 | **Localized Data Gap** | Region-specific genomic database for Bangladesh |
-| **Accessibility Barriers** | AI-powered interpretation for non-specialists |
-| **Complexity** | Intelligent automation and natural language queries |
-| **Engagement** | ARG-style interactive storytelling |
+| **Accessibility Barriers** | AI-powered interpretation for researchers and students |
+| **Complexity** | Automated ARG detection and classification |
+| **Engagement** | Interactive reports and visualizations for genomic data |
 
 </div>
 
 Genomic databases are fundamental to modern biological research, yet significant barriers persist. Our framework addresses these challenges through intelligent automation and creative engagement strategies, making cutting-edge genetic research accessible to everyone.
 
-
+---
 
 ## Technical Architecture
 
@@ -195,8 +196,8 @@ Genomic databases are fundamental to modern biological research, yet significant
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    │
-│  │  Database   │───▶│  AI Engine  │───▶│  Frontend   │    │
-│  │   Layer     │    │   (LLM)     │    │  Interface  │    │
+│  │  Database   │───▶│  AI Engine  │───▶│Visualization│    │
+│  │   Layer     │    │   (LLM)     │    │& Reporting  │    │
 │  └─────────────┘    └─────────────┘    └─────────────┘    │
 │         │                   │                   │          │
 │         └───────────────────┴───────────────────┘          │
@@ -212,12 +213,12 @@ Genomic databases are fundamental to modern biological research, yet significant
 
 | Component | Description |
 |-----------|-------------|
-| **Database Layer** | Structured genomic data repository with optimized query capabilities |
-| **AI Engine** | Large language model integration for natural language processing |
-| **Interactive Frontend** | ARG-inspired interface designed for exploration and discovery |
-| **API Infrastructure** | RESTful services enabling programmatic access |
+| **Database Layer** | Region-specific genomic repository storing sequences and ARG annotations |
+| **AI Engine** | LLM for ARG prediction, classification, and interpretation |
+| **Visualization & Reporting** | Interactive dashboards, tables, and natural language summaries |
+| **API Infrastructure** | RESTful services for programmatic access and queries |
 
-
+---
 
 ## Research Methodology
 
@@ -225,12 +226,12 @@ Genomic databases are fundamental to modern biological research, yet significant
 
 ```mermaid
 graph TD
-    A[ Literature Review] --> B[ Database Analysis]
-    B --> C[ AI Model Selection]
-    C --> D[ ARG Design]
-    D --> E[ Prototype Development]
-    E --> F[ Testing & Iteration]
-    F --> G[ Documentation]
+    A[Literature Review] --> B[Genomic Database Construction]
+    B --> C[ARG Annotation & Labeling]
+    C --> D[AI Model Selection & Training]
+    D --> E[ARG Prediction Module Development]
+    E --> F[Testing Validation & Iteration]
+    F --> G[Documentation & Reporting]
     style A fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#FFD700,stroke:#fff,stroke-width:2px,color:#fff
@@ -244,7 +245,7 @@ graph TD
 
 Our development process follows rigorous academic standards, combining theoretical research with practical implementation and continuous refinement based on expert feedback and user testing.
 
-
+---
 
 ## Development Roadmap
 
@@ -254,13 +255,13 @@ Our development process follows rigorous academic standards, combining theoretic
 |-------|-----------|--------|
 | **Phase 1** | Database Architecture & Data Acquisition | ![](https://img.shields.io/badge/-in%20progress-00D9FF?style=flat-square) |
 | **Phase 2** | LLM Integration & Query System | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
-| **Phase 3** | ARG Framework Design | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
+| **Phase 3** | ARG Prediction & Reporting Module | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
 | **Phase 4** | Testing & Refinement | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
 | **Phase 5** | Final Documentation & Presentation | ![](https://img.shields.io/badge/-planned-gray?style=flat-square) |
 
 </div>
 
-
+---
 
 ## Impact Potential
 
@@ -287,19 +288,19 @@ Supports public health initiatives through accessible genetic information
 </tr>
 </table>
 
-
+---
 
 ## Acknowledgments
 
 We extend our gratitude to our academic advisors, the Computer Science department, and the Genomic AI Research Lab for their guidance and support throughout this endeavor.
 
-
+---
 
 <div align="center">
 
 ### Team NoEffort | Final Year Design Project
 
-**Computer Science Department** |**UIU**-223
+**Computer Science Department** | **UIU**-223
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Documentation](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=gitbook&logoColor=white)](#)
