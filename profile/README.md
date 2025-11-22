@@ -20,7 +20,7 @@
 <div align="center">
 
 ```mermaid
-graph LR
+graph TD
     A[Genomic Data] --> B[Database Layer]
     B --> C[AI Engine LLM]
     C --> D[ARG Prediction & Classification]
