@@ -109,7 +109,6 @@ An innovative final-year research project that converges cutting-edge AI, genomi
 </table>
 
 </div>
-
 ---
 
 ## Vision
