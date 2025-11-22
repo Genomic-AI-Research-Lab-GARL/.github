@@ -43,7 +43,7 @@ flowchart TD
 
 This final-year research project integrates **AI and genomic data** to analyze **antibiotic resistance genes (ARGs)**. The framework enables ARG detection, classification, and interpretation, providing actionable insights for researchers and students.
 
-**Affiliation:** Genomic AI Research Lab (GARL)
+**Organization:** Genomic AI Research Lab (GARL)
 
 
 
@@ -316,6 +316,6 @@ We extend our gratitude to our academic advisors, the Computer Science departmen
 
 ---
 
-*Made with passion by Team NoEffort*
+*Team NoEffort*
 
 </div>
